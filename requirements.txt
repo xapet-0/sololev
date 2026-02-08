@@ -1,0 +1,4 @@
+customtkinter>=5.2.2
+packaging>=24.0
+pillow>=10.3.0
+yt-dlp>=2024.7.2
